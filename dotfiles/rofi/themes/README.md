@@ -5,7 +5,7 @@
 Rofi is A window switcher, Application launcher and dmenu replacement.
 Rofi started as a clone of simpleswitcher and It has been extended with extra features,
 like an application launcher and ssh-launcher, and can act as a drop-in dmenu replacement,
-making it a very versatile tool. Rofi, like dmenu, will provide the user with a textual list of
+making it a very versatile tool. Rofi, like dmenu, will provide the architect with a textual list of
 options where one or more can be selected. This can either be running an application, selecting
 a window, or options provided by an external script. You can learn more about Rofi [here](https://github.com/davatorium/rofi).
 
